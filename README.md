@@ -49,7 +49,7 @@ Return token key.
 | :-------- | :------- | :-------------------------------- |
 | `Waybill`      | `string` | **Required**. Your UPS shipping tracking code. |
 
-| Header Name | Value     | Açıklama                       |
+| Header Name | Value     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `Authorization`      | `Bearer token....` | The key returned through authentication is sent over the header.  |
 
