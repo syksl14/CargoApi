@@ -24,7 +24,7 @@ Cargo query via API with shortcuts on ios.
 - Support for all platforms
 
   
-## API Kullanımı
+## API Usage
 
 #### Login api service
 
