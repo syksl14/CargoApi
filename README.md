@@ -8,7 +8,7 @@ It allows you to query your UPS cargo by giving commands with Apple ecosystem an
 
 ## Demo
 Cargo query via API with shortcuts on ios. 
-[Shortcut Download](https://www.icloud.com/iclouddrive/028vN6OofdNaGlFkj_Nn2i7jw#Kargom_Nerede)
+[Shortcut Download](https://www.icloud.com/iclouddrive/071cmdlanPKDZ3JC2608XKzqA#Kargom_Nerede)
 
 ## Screenshots
 
