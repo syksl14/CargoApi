@@ -15,7 +15,8 @@ Cargo query via API with shortcuts on ios.
 ![Kestirmeler](https://depo.selahattinyuksel.net/img/IMG_2686.PNG)
 ![Örnek](https://depo.selahattinyuksel.net/img/IMG_2687.PNG)
   
-  
+https://github.com/syksl14/CargoApi/assets/16544664/5ac23033-73a0-469e-aee8-1f751d671814
+
 ## Features
 
 - User authentication with token
